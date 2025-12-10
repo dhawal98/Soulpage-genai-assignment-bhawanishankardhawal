@@ -1,4 +1,4 @@
-📘 Project Overview — Conversational Knowledge Bot
+Project Overview — Conversational Knowledge Bot
 
 This project demonstrates how to build an intelligent Conversational Knowledge Bot using LangChain, Google’s Gemini model, web-search tools, and a memory-driven agent architecture.
 The objective is to combine LLM reasoning, tool usage, and conversation history to produce answers that are factual, contextual, and human-like.
@@ -17,7 +17,7 @@ Maintaining a natural conversational flow
 
 The entire system is wrapped in a Streamlit chat interface, making the bot easy to use and interact with.
 
-🧠 Core Concepts & Theory
+Core Concepts & Theory
 1. Large Language Model (LLM) — Google Gemini
 
 Gemini is used as the central reasoning engine.
@@ -140,7 +140,7 @@ Memory preservation via st.session_state
 
 It converts backend logic into a simple interactive app.
 
-📦 Environment Variables — .env
+Environment Variables — .env
 
 You must manually create a .env file to store your API keys.
 This keeps sensitive data out of the codebase.
@@ -150,7 +150,7 @@ GEMINI_API_KEY=your_api_key_here
 
 This file is intentionally excluded from GitHub (as it should be).
 
-📝 Why This Matters
+Why This Matters
 
 This project is a practical demonstration of:
 
@@ -165,3 +165,4 @@ Integration of generative models with live data
 Deploying an interactive chatbot UI
 
 It reflects modern AI system design, where the LLM is not just a “text generator” but an intelligent controller capable of using external tools and remembering context.
+
