@@ -1,0 +1,33 @@
+# # python-dotenv
+# # requests
+# # langchain
+# # langchain-community
+# # duckduckgo-search
+
+
+# # # # minimal set
+# # # streamlit
+# # # langchain
+# # # openai
+# # # duckduckgo_search
+
+
+# # # streamlit
+# # # langchain>=0.1
+# # # duckduckgo_search>=2.8.5
+# # # google-generative-ai>=0.8.0
+# # # # Optional: if a LangChain-specific google-gen wrapper package exists for your langchain version:
+# # # # langchain-google-generativeai
+
+# streamlit
+# langchain
+# langchain-openai
+# langchain-community
+# duckduckgo-search
+
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+duckduckgo-search
+python-dotenv
